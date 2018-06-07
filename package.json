@@ -1,0 +1,8 @@
+{
+  "name": "KAN",
+  "version": "0.0.1",
+  "dependencies": {
+    "zeppelin-solidity": "1.6.0",
+    "web3": "^0.19.1",
+  }
+}
